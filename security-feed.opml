@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Jonathan subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Security" title="Security">
+            <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com"/>
+            <outline type="rss" text="Rhino Security Labs" title="Rhino Security Labs" xmlUrl="http://www.rhinosecuritylabs.com/blog/feed/" htmlUrl="https://rhinosecuritylabs.com"/>
+            <outline type="rss" text="Darknet" title="Darknet" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
+            <outline type="rss" text="TaoSecurity" title="TaoSecurity" xmlUrl="http://taosecurity.blogspot.com/atom.xml" htmlUrl="https://taosecurity.blogspot.com/"/>
+            <outline type="rss" text="cybersmashup" title="cybersmashup" xmlUrl="http://cybermashup.com/feed/" htmlUrl="https://research.kudelskisecurity.com"/>
+            <outline type="rss" text="Troy Hunt's Blog" title="Troy Hunt's Blog" xmlUrl="http://feeds.feedburner.com/TroyHunt" htmlUrl="https://www.troyhunt.com/"/>
+            <outline type="rss" text="Google Online Security Blog" title="Google Online Security Blog" xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml" htmlUrl="http://security.googleblog.com/"/>
+            <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="https://thehackernews.com/"/>
+            <outline type="rss" text="Blog – NotSoSecure" title="Blog – NotSoSecure" xmlUrl="http://www.notsosecure.com/blog/feed/" htmlUrl="https://notsosecure.com"/>
+            <outline type="rss" text="US-CERT Current Activity" title="US-CERT Current Activity" xmlUrl="http://www.us-cert.gov/current/index.rdf" htmlUrl="https://us-cert.cisa.gov/"/>
+            <outline type="rss" text="Naked Security" title="Naked Security" xmlUrl="http://nakedsecurity.sophos.com/feed/" htmlUrl="https://nakedsecurity.sophos.com"/>
+            <outline type="rss" text="SWITCH Security-Blog" title="SWITCH Security-Blog" xmlUrl="http://securityblog.switch.ch/feed/" htmlUrl="https://securityblog.switch.ch"/>
+            <outline type="rss" text="Threat Research Blog" title="Threat Research Blog" xmlUrl="http://www.fireeye.com/blog/feed" htmlUrl="http://www.fireeye.com/blog/threat-research.html"/>
+            <outline type="rss" text="Project Zero" title="Project Zero" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
+            <outline type="rss" text="/r/pwned" title="/r/pwned" xmlUrl="http://www.reddit.com/r/pwned/.rss" htmlUrl="https://www.reddit.com/r/pwned/"/>
+            <outline type="rss" text="The Register - Security" title="The Register - Security" xmlUrl="http://www.theregister.co.uk/security/headlines.atom" htmlUrl="https://www.theregister.com/security/"/>
+            <outline type="rss" text="SCRT Blog" title="SCRT Blog" xmlUrl="http://blog.scrt.ch/feed/" htmlUrl="https://blog.scrt.ch/"/>
+            <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+            <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+        </outline>
+    </body>
+</opml>
